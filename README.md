@@ -18,9 +18,9 @@
 
 # 📊 Estatísticas
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioBrito05&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioBrito05&show_icons=true&theme=github_dark&cache_seconds=1800"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioBrito05&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioBrito05&layout=compact&theme=github_dark&cache_seconds=1800"/>
 </div>
 
 # 📌 Projetos em destaque
